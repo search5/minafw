@@ -1,4 +1,4 @@
-sech-firewall
+minafw
 =============
 
 Linux iptables Based Firewall
